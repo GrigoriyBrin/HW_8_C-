@@ -1,0 +1,15 @@
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/obj/Debug/net6.0/Task_1.csproj.AssemblyReference.cache
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/obj/Debug/net6.0/Task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/obj/Debug/net6.0/Task_1.AssemblyInfoInputs.cache
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/obj/Debug/net6.0/Task_1.AssemblyInfo.cs
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/obj/Debug/net6.0/Task_1.csproj.CoreCompileInputs.cache
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/bin/Debug/net6.0/Task_1
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/bin/Debug/net6.0/Task_1.deps.json
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/bin/Debug/net6.0/Task_1.runtimeconfig.json
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/bin/Debug/net6.0/Task_1.dll
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/bin/Debug/net6.0/Task_1.pdb
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/obj/Debug/net6.0/Task_1.dll
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/obj/Debug/net6.0/refint/Task_1.dll
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/obj/Debug/net6.0/Task_1.pdb
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/obj/Debug/net6.0/Task_1.genruntimeconfig.cache
+/Users/grigoriybrin/Documents/HW/HW_10/Task_1/obj/Debug/net6.0/ref/Task_1.dll
